@@ -29,19 +29,17 @@ This repository contains the solution to **Problem Statement 1** of **E-Hackatho
 ## 🔄 Old vs. New Dashboard
 
 ### 📌 **Old Login Page**
-![Old Login Page](assets)
+![Old Login Page](https://github.com/Nabin-09/pb1_Ehackathon/blob/main/assets/old%20Login%20Page.png)
 
 ### 📌 **Old Student Dashboard**
-*(Add Screenshot Here)*
+![Old Dashboard](https://github.com/Nabin-09/pb1_Ehackathon/blob/main/assets/old%20dashboard.png)
 
 ### 🌟 **New Login Page**
-*(Add Screenshot Here)*
+![New Login](https://github.com/Nabin-09/pb1_Ehackathon/blob/main/assets/Screenshot%202025-03-13%20124722.png)
 
 ### 🌟 **New Student Dashboard**
-*(Add Screenshot Here)*
+![New Dashboard](https://github.com/Nabin-09/pb1_Ehackathon/blob/main/assets/new%20Dashboard.png)
 
-### 🌟 **Respoonsive Design**
-*(Add Screenshot Here)*
 
 ---
 
