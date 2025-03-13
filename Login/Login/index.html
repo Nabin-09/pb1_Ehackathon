@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+    <title>Login Page</title>
+</head>
+
+<body>
+    <div class="container" id="container">
+        <div class="form-container sign-up">
+            <form class="form1">
+                <a href="#" class="logo"><img src="Screenshot 2025-03-12 at 8.34.09 PM.png" alt="" id="logo"></a>
+                <a href="/Dashboard/sec_index.html">
+                    
+                </a>
+                <h1>Login</h1>
+                <span>Staff|Faculty</span>
+                <br>
+                <input type="text" placeholder="Username">
+                <input type="password" placeholder="Password">
+                <a href="#">Forget Your Password?</a>
+                <a href="/Dashboard/sec_index.html"> <button>Log in</button></a>
+               
+            </form>
+        </div>
+        <div class="form-container sign-in">
+            <form>
+                <a href="#" class="logo"><img src="Screenshot 2025-03-12 at 8.34.09 PM.png" alt="" id="logo"></a>
+                <h1>Log In</h1>
+                <span>Student|Parent</span>
+                <br>
+                <input type="text" placeholder="Username">
+                <input type="password" placeholder="Password">
+                <a href="#">Forget Your Password?</a>
+                <button>Log In</button>
+            </form>
+        </div>
+        <div class="toggle-container">
+            <div class="toggle">
+                <div class="toggle-panel toggle-left">
+                    <h1>Welcome Back!</h1>
+                    <p>Enter your personal details to use all of site features</p>
+                    <button class="hidden" id="login">Student</button>
+                </div>
+                <div class="toggle-panel toggle-right">
+                    <h1>Hello, Friend!</h1>
+                    <p>Admin Login</p>
+                    <button class="hidden" id="register">Admin</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
