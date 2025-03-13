@@ -7,7 +7,7 @@ This repository contains the solution to **Problem Statement 1** of **E-Hackatho
 
 ## 🎯 Key Objectives
 ### 🔹 Improved UI/UX
-- Enhanced the overall design for better user experience.
+- Enhanced the overall design for better user experience..
 - Implemented a **modern UI** with intuitive navigation.
 - **Fully Responsive**: The dashboard adapts seamlessly to different screen sizes and devices.
 
