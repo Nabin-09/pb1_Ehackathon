@@ -2,6 +2,7 @@
 
 ## 🚀 Project Overview
 This repository contains the solution to **Problem Statement 1** of **E-Hackathon 1** at **Amity University, Greater Noida**. Our primary focus was to enhance the **UI/UX** of the existing **student dashboard** by introducing a visually appealing, informative, and user-friendly interface.
+Working Link of the project : https://nabin-09.github.io/pb1_Ehackathon/
 
 ---
 
